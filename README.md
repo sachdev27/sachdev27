@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 -->
 
-[![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachdevst&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachdevst&langs_count=6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachdev27&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachdev27&langs_count=6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
