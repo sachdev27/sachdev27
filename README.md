@@ -4,13 +4,14 @@
 **sachdev27/sachdev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+Some highlights of my bio:
 
-- 🔭 I’m currently working on CyberSecurity domain.
-- 🌱 I’m currently learning Cloud computing and Networking.
-- 👯 I’m looking to collaborate on Computer Networking tools.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sandeshsachdev/)
-- ⭐️ If you like my projects, do leave a star!
-
+- Experienced in threat modeling, security best practices, and DevSecOps tools
+- Developed a custom threat modeling template for internal requirements at Eaton
+- Managed multiple projects simultaneously to support team objectives
+- Utilized machine learning techniques to develop a predictive model for on-demand bike rentals at InfoCepts
+- Proficient in programming languages like Python and C/C++, and tools/platforms like Linux, Azure, Docker, and Git & GitHub
+- Certified in Computer Networks and Internet Protocol, IT Security, Software Engineering, and Azure Fundamentals
 
 [![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachdev27&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachdev27&langs_count=6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
