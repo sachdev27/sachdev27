@@ -6,10 +6,10 @@
 
 Some highlights of my bio:
 
+- Proficient in programming languages like Python , and tools/platforms like Linux, Azure, Docker,K8s and Git & GitHub
 - Experienced in threat modeling, security best practices, and DevSecOps tools
 - Developed a custom threat modeling template for internal requirements at Eaton
 - Utilized machine learning techniques to develop a predictive model for on-demand bike rentals at InfoCepts
-- Proficient in programming languages like Python , and tools/platforms like Linux, Azure, Docker,K8s and Git & GitHub
 - Certified in Computer Networks and Internet Protocol, IT Security, Software Engineering, and 3 * Azure Fundamentals
 
 [![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachdev27&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
