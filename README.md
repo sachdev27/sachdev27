@@ -14,5 +14,7 @@
 
 Hello! I'm Sandesh Sachdev, a final year Computer Science undergraduate student with a strong interest in DevOps and Site Reliability Engineering (SRE). Currently, I am interning at Eaton, where I am developed a custom threat modeling template using the Microsoft threat modeling tool. I am passionate about leveraging my skills in threat modeling and security best practices to identify and mitigate potential risks.
 
-[![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachdev27&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachdev27&langs_count=6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+If you have any opportunities or projects related to DevOps and SRE, I would be thrilled to contribute my skills and knowledge. Feel free to reach out to me via email or connect with me on LinkedIn.
+
+<!-- [![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachdev27&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachdev27&langs_count=6&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
