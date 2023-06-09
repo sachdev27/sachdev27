@@ -12,7 +12,7 @@
 - Utilized machine learning techniques to develop a predictive model for on-demand bike rentals at InfoCepts
 - Certified in Computer Networks and Internet Protocol, IT Security, Software Engineering, and 3 * Azure Fundamentals -->
 
-A final year Computer Science undergraduate student with a strong interest in DevOps and Site Reliability Engineering (SRE). Currently, I am interning at Eaton, where I am developed a custom threat modeling template using the Microsoft threat modeling tool. I am passionate about leveraging my skills in threat modeling and security best practices to identify and mitigate potential risks.
+A final year Computer Science undergraduate student with a strong interest in DevOps and Site Reliability Engineering (SRE).
 
 If you have any opportunities or projects related to DevOps and SRE, I would be thrilled to contribute my skills and knowledge. Feel free to reach out to me via email or connect with me on LinkedIn.
 
