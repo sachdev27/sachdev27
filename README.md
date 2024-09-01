@@ -3,12 +3,12 @@
 <!--
 **sachdev27/sachdev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-A Site Reliability Engineering (SRE) at VMware.
+A Site Reliability Engineering (SRE) at Omnissa.
 Feel free to reach out to me via email or connect with me on LinkedIn.
 
 Some highlights of my bio:
 
-- Proficient in programming languages like Python , and tools/platforms like Linux, Azure, Docker,K8s and Git & GitHub
+- Proficient in programming languages like Python , and tools/platforms like Linux, AWS, Docker,K8s and Git & GitHub
 - Experienced in threat modeling, security best practices, and DevSecOps tools
 - Certified in Computer Networks and Internet Protocol, IT Security, Software Engineering, and 3 * Azure Fundamentals 
 
